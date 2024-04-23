@@ -1,0 +1,32 @@
+.Main-Container{
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.left-NavContainer{
+   margin: 10px;
+   align-items: center;
+   justify-content: center;
+}
+.right-NavContainer{
+    margin: 10px;
+    align-items: center;
+    
+    
+    
+
+}
+.manage-class{
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.toolConntainer{
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+.heart-Class{
+    margin-right: 15px;
+    font-size: 25px;
+}
